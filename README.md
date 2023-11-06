@@ -2,6 +2,7 @@
 
 
 - 📖 Estudando JavaScript, HTML e CSS
+- 📖 Estudando PHP
 - 📑 Estudando inglês
 - 👔 Buscando oportunidades no mercado de trabalho para aplicar meu conhecimento
 - 📫 Contate-me no e-mail: wellintonhf123@gmail.com
