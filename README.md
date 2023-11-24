@@ -1,11 +1,11 @@
 ### Olá! Eu sou o Wellinton Silveira 👋
 
 
-- 📖 Estudando JavaScript, HTML e CSS
-- 📖 Estudando PHP
-- 📑 Estudando inglês
-- 👔 Buscando oportunidades no mercado de trabalho para aplicar meu conhecimento
-- 📫 Contate-me no e-mail: wellintonhf123@gmail.com
+- 📖 Conhecimento básico em JavaScript, HTML e CSS;
+- 📖 Conhecimento básico/intermediário PHP;
+- 📑 Conhecimento básico em Java;
+- 👔 Buscando oportunidades no mercado de trabalho para aplicar meu conhecimento;
+- 📫 Contate-me no e-mail: wellintonhf123@gmail.com;
  
 
 <div style="display: inline_block"><br>
