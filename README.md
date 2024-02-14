@@ -10,8 +10,7 @@
  
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Wellinton-Js" height="30" width="40" src="https://github.com/Wellinton03/Wellinton03/assets/105024900/07abf01c-65ce-4e7c-a4ae-9c3a438eb112)
-">
+  <img align="center" alt="Wellinton-Js" height="30" width="40" src="file:///C:/Users/Wellinton%20Silveira/Downloads/java_93883.svg">
   <img align="center" alt="Wellinton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wellinton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
