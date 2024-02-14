@@ -13,7 +13,12 @@
   <img align="center" alt="Wellinton-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
  
   <img align="center" alt="Wellinton-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+
+  <img align="center" alt="Wellinton-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
 </div>
+
+</div>
+
 
 ##
  
